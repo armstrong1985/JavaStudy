@@ -1,6 +1,6 @@
-#####################################
-## Java Development in Intelij IDEA #
-#####################################
+######################################
+## Java Development in Intelij IDEA ##
+######################################
 *.class
 
 # Mobile Tools for Java (J2ME)
