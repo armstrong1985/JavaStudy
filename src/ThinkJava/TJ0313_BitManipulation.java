@@ -49,11 +49,11 @@ public class TJ0313_BitManipulation {
         printBinaryLong("(~l) >>> 5", (~l) >>> 5);
     }
     static void printBinaryInt(String s, int i) {
-        print(s + ", int: " + i + ", binary:\n   " +
+        print(s + ", int: " + i + ",   binary: " +
                 Integer.toBinaryString(i));
     }
     static void printBinaryLong(String s, long l) {
-        print(s + ", long: " + l + ", binary:\n    " +
+        print(s + ", long: " + l + ", binary:    " +
                 Long.toBinaryString(l));
     }
 }
