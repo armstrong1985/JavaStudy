@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 public class TJ0310_ShortCircuit {
     static boolean test1(int val) {

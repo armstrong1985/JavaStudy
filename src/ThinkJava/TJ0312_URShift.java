@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 public class TJ0312_URShift {
     public static void main() {

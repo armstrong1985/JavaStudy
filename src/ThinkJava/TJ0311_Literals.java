@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 public class TJ0311_Literals {
     public static void main() {

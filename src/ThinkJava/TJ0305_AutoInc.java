@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 public class TJ0305_AutoInc {
     public static void main() {

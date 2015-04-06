@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 public class TJ0307_EqualsMethod {
     public static void main() {

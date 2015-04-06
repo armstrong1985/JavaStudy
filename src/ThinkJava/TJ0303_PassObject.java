@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 class Letter {
     char c;

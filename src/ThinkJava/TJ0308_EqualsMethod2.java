@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 class Value {
     int i;

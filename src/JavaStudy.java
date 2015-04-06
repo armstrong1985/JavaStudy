@@ -1,13 +1,10 @@
-import ThinkJava.*;
-import Work.BoolArrayToBytes;
-import java.util.Scanner;
+import options.*;
+import thinkjava.TJ0313_BitManipulation;
 
 public class JavaStudy {
-    static long startTime = System.currentTimeMillis();
-    static char sym = '#';
 
     public static void main(String[] args){                                                                             S.tart();
-        TJ0312_URShift.main();
+        TJ0313_BitManipulation.main();
 
                                                                                                                         F.inish();
     }

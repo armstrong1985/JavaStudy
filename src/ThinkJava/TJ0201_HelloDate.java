@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 import java.util.Date;
 
 /** Первая программа-пример книги.

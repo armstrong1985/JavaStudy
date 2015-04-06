@@ -1,4 +1,4 @@
-package ThinkJava;
+package thinkjava;
 
 //: operators/Precedence.java
 public class TJ0301_Precedence {

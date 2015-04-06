@@ -1,15 +1,7 @@
-import java.util.Scanner;
+package options;
 
-class S {
-    static long tartTime;
-    static char ymbol = '#';
-    static void tart(){
-        tartTime = System.currentTimeMillis();
-    }
-}
-
-class F {
-    static void inish(){
+public class F {
+    public static void inish(){
         String resTime = "Programm run time is " + (System.currentTimeMillis() - S.tartTime) + " ms";
         String sepString = "";
         for (int i=0 ; i<(4+resTime.length()); i++)

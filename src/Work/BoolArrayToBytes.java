@@ -1,4 +1,4 @@
-package Work;
+package work;
 
 public class BoolArrayToBytes {
     public static byte[] boolArrayToBytes(boolean[] boolArr){
